@@ -19,7 +19,7 @@ header {
 
 .container {
     width: 100%;
-    height: 430px;
+    height: auto;
     background-color: white;
 }
 
@@ -46,7 +46,7 @@ float: left;
 
 main {
     width: 100%;
-    height: 420px;
+    height: 450px;
     background-color: violet;
 }
 
@@ -73,5 +73,4 @@ footer {
     width: 100%;
     height: 80px;
     background-color: lightblue;
-    margin-top: 10px;
 }
